@@ -1,0 +1,4 @@
+swww
+swww-debug
+yay-bin
+yay-bin-debug
